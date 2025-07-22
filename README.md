@@ -1,6 +1,6 @@
 # Kasir Coffee
 
-<img width="428" height="428" alt="Logo" src="https://github.com/user-attachments/assets/f10871fe-da9e-49d3-a634-8f182f68d8b1" />
+<img width="428" height="428" alt="Logo" align="center" src="https://github.com/user-attachments/assets/f10871fe-da9e-49d3-a634-8f182f68d8b1" />
 
 Aplikasi Kasir sederhana berbasis web untuk usaha kedai kopi. Aplikasi ini dibuat menggunakan PHP dan MySQL.
 
